@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>AI and Deep learning Blog</title>
+      <link>https://mlwithkishan.com/blog</link>
+      <description>A blog created to provide information about state of the art Deep learning and AI methods</description>
+      <language>en-us</language>
+      <managingEditor>dr.krishangovind@gmail.com (Kishan Govind)</managingEditor>
+      <webMaster>dr.krishangovind@gmail.com (Kishan Govind)</webMaster>
+      <lastBuildDate>Fri, 12 Jan 2024 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://mlwithkishan.com/tags/llama2/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://mlwithkishan.com/blog/medical-blog-ranking-llama2</guid>
+    <title>Predicting accuracy of medical blogs on colon cancer using Llama2</title>
+    <link>https://mlwithkishan.com/blog/medical-blog-ranking-llama2</link>
+    <description>In the digital age, many blogs provide information on diseases, early signs and symptoms, and treatment methods. However, the accuracy of this information can vary. AI, like Llama2, can be used to analyze these blogs and predict the correctness of the information. By training Llama2 on verified medical data, it can cross-check the information in the blogs, identifying inaccuracies and ensuring the content is reliable. This helps users access accurate health information and make informed decisions.</description>
+    <pubDate>Fri, 12 Jan 2024 00:00:00 GMT</pubDate>
+    <author>dr.krishangovind@gmail.com (Kishan Govind)</author>
+    <category>llama2</category><category>colon cancer</category>
+  </item>
+
+    </channel>
+  </rss>

@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://mlwithkishan.com
+Sitemap: https://mlwithkishan.com/sitemap.xml

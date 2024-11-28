@@ -1,0 +1,34 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>AI and Deep learning Blog</title>
+      <link>https://mlwithkishan.com/blog</link>
+      <description>A blog created to provide information about state of the art Deep learning and AI methods</description>
+      <language>en-us</language>
+      <managingEditor>dr.krishangovind@gmail.com (Kishan Govind)</managingEditor>
+      <webMaster>dr.krishangovind@gmail.com (Kishan Govind)</webMaster>
+      <lastBuildDate>Fri, 01 Sep 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://mlwithkishan.com/tags/yolo/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://mlwithkishan.com/blog/construction-material-quantity-takeoff-Part1</guid>
+    <title>Introduction to Construction Material Quantity Takeoff:- Counting the symbols</title>
+    <link>https://mlwithkishan.com/blog/construction-material-quantity-takeoff-Part1</link>
+    <description>Counting items in a construction plan is an important task where we count the items present in the drawings. In this blog, we introduce the problem statement and the challenges in developing a AI based model which can be used to count the items.</description>
+    <pubDate>Fri, 01 Sep 2023 00:00:00 GMT</pubDate>
+    <author>dr.krishangovind@gmail.com (Kishan Govind)</author>
+    <category>Construction</category><category>Quantity Takeoff</category><category>Yolo</category><category>Object Detection</category>
+  </item>
+
+  <item>
+    <guid>https://mlwithkishan.com/blog/construction-material-quantity-takeoff-Part2</guid>
+    <title>Construction Material Quantity Takeoff Using AI:- Counting the symbols</title>
+    <link>https://mlwithkishan.com/blog/construction-material-quantity-takeoff-Part2</link>
+    <description>A two step AI based solution is proposed to count symbols in a plan for material quantity takeoff in construction. The first step is to perform object detection where the objective is to predict all the symbols present in the drawing. Once we have all the symbols, then we can perform indexing of symbols from the legend using dinoV2 model and Faiss vectordatabase.</description>
+    <pubDate>Fri, 01 Sep 2023 00:00:00 GMT</pubDate>
+    <author>dr.krishangovind@gmail.com (Kishan Govind)</author>
+    <category>Construction</category><category>Quantity Takeoff</category><category>Yolo</category><category>Object Detection</category><category>dinoV2</category><category>Faiss</category><category>vectordatabase</category>
+  </item>
+
+    </channel>
+  </rss>

@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>AI and Deep learning Blog</title>
+      <link>https://mlwithkishan.com/blog</link>
+      <description>A blog created to provide information about state of the art Deep learning and AI methods</description>
+      <language>en-us</language>
+      <managingEditor>dr.krishangovind@gmail.com (Kishan Govind)</managingEditor>
+      <webMaster>dr.krishangovind@gmail.com (Kishan Govind)</webMaster>
+      <lastBuildDate>Sun, 20 Aug 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://mlwithkishan.com/tags/synthetic-data/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://mlwithkishan.com/blog/dreambooth-dislocations-synthetic-images</guid>
+    <title>Generate synthetic images of dislocation microstructure using Dreambooth</title>
+    <link>https://mlwithkishan.com/blog/dreambooth-dislocations-synthetic-images</link>
+    <description>Finetuning dreambooth provides a unique way to generate synthetic images using just a couple of images. DreamBooth is a technique for personalizing text-to-image models such as Stable Diffusion by fine-tuning them with a small number of images (usually 3 to 5) of a specific subject. This method allows the model to generate images that incorporate the characteristics of the subject in new, synthesized scenes.</description>
+    <pubDate>Sun, 20 Aug 2023 00:00:00 GMT</pubDate>
+    <author>dr.krishangovind@gmail.com (Kishan Govind)</author>
+    <category>dreambooth</category><category>stable diffusion</category><category>dislocation</category><category>synthetic data</category>
+  </item>
+
+    </channel>
+  </rss>
